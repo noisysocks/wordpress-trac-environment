@@ -1,0 +1,3 @@
+[submodule "meta-repository"]
+	path = meta-repository
+	url = git://meta.git.wordpress.org/
