@@ -22,3 +22,5 @@ services:
       - ./trac.ini:/var/local/trac/conf/trac.ini:ro
 
       - ./meta-repository/trac.wordpress.org/templates:/var/local/trac/templates:ro
+
+      - ./db:/var/local/trac/db
