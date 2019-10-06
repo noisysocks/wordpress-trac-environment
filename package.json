@@ -1,0 +1,19 @@
+{
+  "name": "wordpress-trac-environment",
+  "version": "1.0.0",
+  "description": "To start the environment: ./env.sh start",
+  "devDependencies": {
+    "chokidar": "^3.2.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noisysocks/wordpress-trac-environment.git"
+  },
+  "author": "The Wordpress Contributors",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/noisysocks/wordpress-trac-environment/issues"
+  },
+  "homepage": "https://github.com/noisysocks/wordpress-trac-environment#readme"
+}
