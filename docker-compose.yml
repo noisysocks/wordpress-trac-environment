@@ -18,6 +18,7 @@ services:
       - ./meta-repository/trac.wordpress.org/conf/workflow-core-test.ini:/var/local/trac/conf/workflow-core-test.ini:ro
       - ./meta-repository/trac.wordpress.org/conf/workflow-core.ini:/var/local/trac/conf/workflow-core.ini:ro
       - ./meta-repository/trac.wordpress.org/conf/workflow-themes.ini:/var/local/trac/conf/workflow-themes.ini:ro
+      - ./meta-repository/trac.wordpress.org/conf/prnumber.ini:/var/local/trac/conf/prnumber.ini:ro
 
       - ./trac.ini:/var/local/trac/conf/trac.ini:ro
 
